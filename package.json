@@ -9,7 +9,7 @@
     "bunyan": "~0.22.1",
     "clim": "*",
     "findit": "~1.1.0",
-    "fs-extra": "^0.14.0",
+    "fs-extra": "^0.30.0",
     "fstream": "~0.1.24",
     "jpeg": "~2.0.0",
     "json-patch": "^0.5.0",
